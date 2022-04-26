@@ -1,1 +1,1 @@
-# ShoperUp
+# ShoperUp.
